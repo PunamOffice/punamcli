@@ -22,7 +22,7 @@ func main() {
 		Use:   "hello",
 		Short: "Prints a greeting",
 		Run: func(cmd *cobra.Command, args []string) {
-			fmt.Println("Hello! I am Punam. Welcome to punamcli!")
+			fmt.Println("Hello! I am Punam. punamcli v3 is here!")
 		},
 	}
 
