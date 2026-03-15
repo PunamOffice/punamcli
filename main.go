@@ -9,7 +9,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
-var Version = "dev"
+var Version = "var"
 const UpdateURL = "https://github.com/PunamOffice/mycli/releases/latest/download/punamcli.exe"
 
 func main() {
